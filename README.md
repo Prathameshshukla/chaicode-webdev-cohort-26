@@ -14,7 +14,7 @@ and real project links.
 ## Demo
 - Screenshots are included in the repository
 
-![HTML Resume Page](Screenshot 2026-01-30 183329.png)
+![HTML Resume Page](./Screenshot 2026-01-30 183329.png)
 ![HTml Resume Page}(Screenshot 2026-01-30 183337.png)
 
 ## Author
