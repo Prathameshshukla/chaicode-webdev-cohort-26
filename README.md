@@ -14,7 +14,7 @@ and real project links.
 ## Demo
 - Screenshots are included in the repository
 
-![HTML Resume Page](./resume.png.png)
+![HTML Resume Page](./Resume.png)
 
 ## Author
 Prathamesh Shukla
